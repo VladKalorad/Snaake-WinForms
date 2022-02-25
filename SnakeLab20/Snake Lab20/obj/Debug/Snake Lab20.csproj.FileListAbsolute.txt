@@ -1,0 +1,10 @@
+E:\ПрактикаЛабы\Snake Lab20\Snake Lab20\bin\Debug\Snake Lab20.exe.config
+E:\ПрактикаЛабы\Snake Lab20\Snake Lab20\bin\Debug\Snake Lab20.exe
+E:\ПрактикаЛабы\Snake Lab20\Snake Lab20\bin\Debug\Snake Lab20.pdb
+E:\ПрактикаЛабы\Snake Lab20\Snake Lab20\obj\Debug\Snake Lab20.csproj.AssemblyReference.cache
+E:\ПрактикаЛабы\Snake Lab20\Snake Lab20\obj\Debug\Snake_Lab20.Properties.Resources.resources
+E:\ПрактикаЛабы\Snake Lab20\Snake Lab20\obj\Debug\Snake Lab20.csproj.GenerateResource.cache
+E:\ПрактикаЛабы\Snake Lab20\Snake Lab20\obj\Debug\Snake Lab20.csproj.CoreCompileInputs.cache
+E:\ПрактикаЛабы\Snake Lab20\Snake Lab20\obj\Debug\Snake Lab20.exe
+E:\ПрактикаЛабы\Snake Lab20\Snake Lab20\obj\Debug\Snake Lab20.pdb
+E:\ПрактикаЛабы\Snake Lab20\Snake Lab20\obj\Debug\Snake_Lab20.Snake.resources
